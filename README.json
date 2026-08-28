@@ -16,7 +16,8 @@
             "owner": "chubin",
             "repo": "cheat.sh",
             "stars": 41694
-          }
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         }
       ],
       "title": "Cheat Sheet for quick references of commands and codes"
@@ -37,7 +38,8 @@
             "owner": "chubin",
             "repo": "cheat.sheets",
             "stars": 671
-          }
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -48,11 +50,12 @@
             "archived": false,
             "id": 15019962,
             "language": "Markdown",
-            "last_commit": "2026-08-27T05:47:14Z",
+            "last_commit": "2026-08-28T00:55:28Z",
             "owner": "tldr-pages",
             "repo": "tldr",
-            "stars": 63497
-          }
+            "stars": 63503
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "chrisallenlane",
             "repo": "cheat",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "adambard",
             "repo": "learnxinyminutes-docs",
             "stars": 12337
-          }
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "a8m",
             "repo": "golang-cheat-sheet",
             "stars": 8821
-          }
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "pkrumins",
             "repo": "perl1line.txt",
             "stars": 258
-          }
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "children": [],
@@ -127,7 +134,8 @@
             "repo": "cheat.sh",
             "stars": 41694
           },
-          "title": "Offline usage install cheat script manually"
+          "title": "Offline usage install cheat script manually",
+          "first_seen": "2026-08-28T04:31:53.316Z"
         }
       ],
       "title": "ℹ️CHEAT.SH SOURCESℹ️"
@@ -147,8 +155,9 @@
             "last_commit": "2026-02-11T18:20:42Z",
             "owner": "bobbyiliev",
             "repo": "introduction-to-bash-scripting",
-            "stars": 6318
-          }
+            "stars": 6320
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "techarkit",
             "repo": "shell-scripting-tutorial",
             "stars": 693
-          }
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "epety",
             "repo": "100-shell-script-examples",
             "stars": 571
-          }
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "ruanyf",
             "repo": "simple-bash-scripts",
             "stars": 1935
-          }
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "qjcg",
             "repo": "shell-examples",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -222,8 +235,9 @@
             "last_commit": "2026-04-12T17:26:10Z",
             "owner": "LeCoupa",
             "repo": "awesome-cheatsheets",
-            "stars": 46405
-          }
+            "stars": 46408
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "pirate",
             "repo": "bash-utils",
             "stars": 309
-          }
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "alexanderepstein",
             "repo": "Bash-Snippets",
             "stars": 9945
-          }
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -268,7 +284,8 @@
             "owner": "HariSekhon",
             "repo": "DevOps-Bash-tools",
             "stars": 8388
-          }
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -282,8 +299,9 @@
             "last_commit": "2026-08-09T06:56:08Z",
             "owner": "Bash-it",
             "repo": "bash-it",
-            "stars": 15149
-          }
+            "stars": 15150
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -297,8 +315,9 @@
             "last_commit": "2023-11-28T03:26:23Z",
             "owner": "dylanaraps",
             "repo": "pure-bash-bible",
-            "stars": 41723
-          }
+            "stars": 41722
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "cdleon",
             "repo": "awesome-terminals",
             "stars": 2945
-          }
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -327,8 +347,9 @@
             "last_commit": "2026-05-21T14:27:17Z",
             "owner": "awesome-lists",
             "repo": "awesome-bash",
-            "stars": 10049
-          }
+            "stars": 10051
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "uhub",
             "repo": "awesome-shell",
             "stars": 634
-          }
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -357,8 +379,9 @@
             "last_commit": "2025-08-28T14:40:51Z",
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37514
-          }
+            "stars": 37520
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -372,8 +395,9 @@
             "last_commit": "2026-08-22T08:06:18Z",
             "owner": "agarrharr",
             "repo": "awesome-cli-apps",
-            "stars": 20253
-          }
+            "stars": 20262
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -387,8 +411,9 @@
             "last_commit": "2026-07-29T20:15:17Z",
             "owner": "toolleeo",
             "repo": "awesome-cli-apps-in-a-csv",
-            "stars": 2597
-          }
+            "stars": 2598
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "Kikobeats",
             "repo": "awesome-cli",
             "stars": 352
-          }
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -417,8 +443,9 @@
             "last_commit": "2025-10-08T18:05:22Z",
             "owner": "umutphp",
             "repo": "awesome-cli",
-            "stars": 808
-          }
+            "stars": 809
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -432,8 +459,9 @@
             "last_commit": "2026-08-11T16:48:11Z",
             "owner": "rothgar",
             "repo": "awesome-tuis",
-            "stars": 20351
-          }
+            "stars": 20367
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -447,8 +475,9 @@
             "last_commit": "2026-02-23T11:16:42Z",
             "owner": "sigoden",
             "repo": "aichat",
-            "stars": 10399
-          }
+            "stars": 10401
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -463,7 +492,8 @@
             "owner": "TheR1D",
             "repo": "shell_gpt",
             "stars": 12259
-          }
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -477,8 +507,9 @@
             "last_commit": "2026-05-22T14:02:20Z",
             "owner": "Aider-AI",
             "repo": "aider",
-            "stars": 48527
-          }
+            "stars": 48539
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -493,7 +524,8 @@
             "owner": "plandex-ai",
             "repo": "plandex",
             "stars": 15598
-          }
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -504,11 +536,12 @@
             "archived": false,
             "id": 384219990,
             "language": "Rust",
-            "last_commit": "2026-08-27T07:02:13Z",
+            "last_commit": "2026-08-28T04:09:31Z",
             "owner": "warpdotdev",
             "repo": "warp",
-            "stars": 64553
-          }
+            "stars": 64575
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -523,7 +556,8 @@
             "owner": "ligurio",
             "repo": "awesome-ttygames",
             "stars": 1026
-          }
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -537,8 +571,9 @@
             "last_commit": "2024-07-26T15:27:31Z",
             "owner": "k4m4",
             "repo": "terminals-are-sexy",
-            "stars": 13091
-          }
+            "stars": 13092
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -549,11 +584,12 @@
             "archived": false,
             "id": 363142095,
             "language": "Python",
-            "last_commit": "2026-08-23T15:43:02Z",
+            "last_commit": "2026-08-27T19:22:14Z",
             "owner": "beucismis",
             "repo": "awesome-fetch",
             "stars": 595
-          }
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         },
         {
           "node_type": "item",
@@ -567,15 +603,16 @@
             "last_commit": "2026-02-01T08:49:45Z",
             "owner": "chubin",
             "repo": "awesome-console-services",
-            "stars": 6512
-          }
+            "stars": 6514
+          },
+          "first_seen": "2026-08-28T04:31:53.316Z"
         }
       ],
       "title": "More bash resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:48:26.348Z",
+    "last_updated": "2026-08-28T04:31:53.316Z",
     "original_repository_info": {
       "archived": false,
       "id": 562011743,
@@ -583,7 +620,7 @@
       "last_commit": "2026-01-07T13:42:45Z",
       "owner": "trinib",
       "repo": "Linux-Bash-Commands",
-      "stars": 4116
+      "stars": 4119
     },
     "original_repository_sha": "13657905e4e03a263f7f9c38d616121f46e62465",
     "enhanced_repository": "enhansome/enhansome-Linux-Bash-Commands",
