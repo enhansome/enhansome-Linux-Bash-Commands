@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "the only cheat sheet you need",
+            "homepage": "https://cheat.sh/",
             "id": 90563585,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-23T18:48:24Z",
+            "open_issues": 148,
             "owner": "chubin",
             "repo": "cheat.sh",
-            "stars": 41696
+            "stars": 41696,
+            "topics": [
+              "cheatsheet",
+              "cli",
+              "command-line",
+              "curl",
+              "documentation",
+              "examples",
+              "hacktoberfest2021",
+              "help",
+              "terminal",
+              "tldr"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         }
@@ -32,12 +48,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cheat.sh cheat sheets repository ",
+            "homepage": null,
             "id": 90563480,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-03-21T19:31:05Z",
+            "open_issues": 12,
             "owner": "chubin",
             "repo": "cheat.sheets",
-            "stars": 671
+            "stars": 671,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -48,12 +69,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collaborative cheatsheets for console commands 📚.",
+            "homepage": "https://tldr.sh",
             "id": 15019962,
             "language": "Markdown",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-29T02:31:57Z",
+            "open_issues": 301,
             "owner": "tldr-pages",
             "repo": "tldr",
-            "stars": 63515
+            "stars": 63515,
+            "topics": [
+              "android",
+              "bsd",
+              "cheatsheet",
+              "cheatsheets",
+              "cli",
+              "command-line",
+              "console",
+              "documentation",
+              "examples",
+              "hacktoberfest",
+              "help",
+              "linux",
+              "macos",
+              "man-page",
+              "manual",
+              "osx",
+              "shell",
+              "terminal",
+              "tldr",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -64,12 +111,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not frequently enough to remember.",
+            "homepage": null,
             "id": 221348653,
             "language": null,
+            "license": null,
             "last_commit": "2025-07-22T17:17:00Z",
+            "open_issues": 1,
             "owner": "chrisallenlane",
             "repo": "cheat",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -80,12 +132,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code documentation written as code! How novel and totally my idea!",
+            "homepage": "https://learnxinyminutes.com/",
             "id": 10974951,
             "language": "Markdown",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T05:32:50Z",
+            "open_issues": 238,
             "owner": "adambard",
             "repo": "learnxinyminutes-docs",
-            "stars": 12339
+            "stars": 12339,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -96,12 +153,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An overview of Go syntax and features.",
+            "homepage": null,
             "id": 16800723,
             "language": null,
+            "license": null,
             "last_commit": "2023-11-08T10:46:16Z",
+            "open_issues": 24,
             "owner": "a8m",
             "repo": "golang-cheat-sheet",
-            "stars": 8820
+            "stars": 8820,
+            "topics": [
+              "cheat-sheets",
+              "cheatsheet",
+              "go",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -112,12 +179,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "collection of handy perl one-liner scripts",
+            "homepage": "http://www.catonmat.net",
             "id": 2773138,
             "language": null,
+            "license": null,
             "last_commit": "2020-02-10T21:06:43Z",
+            "open_issues": 6,
             "owner": "pkrumins",
             "repo": "perl1line.txt",
-            "stars": 258
+            "stars": 258,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -127,12 +199,28 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "the only cheat sheet you need",
+            "homepage": "https://cheat.sh/",
             "id": 90563585,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-23T18:48:24Z",
+            "open_issues": 148,
             "owner": "chubin",
             "repo": "cheat.sh",
-            "stars": 41696
+            "stars": 41696,
+            "topics": [
+              "cheatsheet",
+              "cli",
+              "command-line",
+              "curl",
+              "documentation",
+              "examples",
+              "hacktoberfest2021",
+              "help",
+              "terminal",
+              "tldr"
+            ]
           },
           "title": "Offline usage install cheat script manually",
           "first_seen": "2026-08-28T04:31:53.316Z"
@@ -150,12 +238,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free Introduction to Bash Scripting eBook",
+            "homepage": "https://leanpub.com/b/linux-devops-ebook-bundle",
             "id": 314036011,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-02-11T18:20:42Z",
+            "open_issues": 10,
             "owner": "bobbyiliev",
             "repo": "introduction-to-bash-scripting",
-            "stars": 6322
+            "stars": 6322,
+            "topics": [
+              "100daysofcode",
+              "bash",
+              "bash-script",
+              "bash-scripting",
+              "devops",
+              "ebook",
+              "hacktoberfest",
+              "introduction-to-bash-scripting"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -166,12 +268,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A complete begineers guide to learn shell scripting from scratch which includes Videos, Practice scenarios and project idea.",
+            "homepage": null,
             "id": 130997764,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-01-27T17:39:33Z",
+            "open_issues": 4,
             "owner": "techarkit",
             "repo": "shell-scripting-tutorial",
-            "stars": 693
+            "stars": 693,
+            "topics": [
+              "bash",
+              "linux",
+              "linux-command",
+              "loop",
+              "programming",
+              "scripting",
+              "scripting-tutorial"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -182,12 +297,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of shell scripts found on the internet",
+            "homepage": null,
             "id": 21027963,
             "language": "Shell",
+            "license": null,
             "last_commit": "2021-05-31T04:49:31Z",
+            "open_issues": 8,
             "owner": "epety",
             "repo": "100-shell-script-examples",
-            "stars": 571
+            "stars": 571,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -198,12 +318,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of simple Bash scripts",
+            "homepage": null,
             "id": 53779777,
             "language": "Shell",
+            "license": null,
             "last_commit": "2025-01-15T13:55:30Z",
+            "open_issues": 10,
             "owner": "ruanyf",
             "repo": "simple-bash-scripts",
-            "stars": 1935
+            "stars": 1935,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -214,12 +339,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Little Bash shell scripting examples",
+            "homepage": null,
             "id": 39254064,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2020-02-05T15:22:42Z",
+            "open_issues": 1,
             "owner": "qjcg",
             "repo": "shell-examples",
-            "stars": 72
+            "stars": 72,
+            "topics": [
+              "bash",
+              "examples",
+              "scripting",
+              "shell",
+              "shell-script",
+              "shell-scripting",
+              "shell-scripts"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -230,12 +368,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
+            "homepage": "https://lecoupa.github.io/awesome-cheatsheets/",
             "id": 110058856,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-12T17:26:10Z",
+            "open_issues": 136,
             "owner": "LeCoupa",
             "repo": "awesome-cheatsheets",
-            "stars": 46405
+            "stars": 46405,
+            "topics": [
+              "backend",
+              "bash",
+              "cheatsheet",
+              "cheatsheets",
+              "database",
+              "django",
+              "docker",
+              "feathersjs",
+              "frontend",
+              "javascript",
+              "kubernetes",
+              "language",
+              "nodejs",
+              "php",
+              "programming-language",
+              "redis",
+              "sailsjs",
+              "vim",
+              "vuejs",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -246,12 +410,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of hand-crafted bash scripts for various common tasks.",
+            "homepage": null,
             "id": 202754204,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-04-08T21:32:28Z",
+            "open_issues": 0,
             "owner": "pirate",
             "repo": "bash-utils",
-            "stars": 309
+            "stars": 309,
+            "topics": [
+              "bash",
+              "bash-library",
+              "bash-scripting",
+              "cloudflare",
+              "dns",
+              "dotfiles",
+              "letsencrypt",
+              "shell-scripts",
+              "tools",
+              "unix"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -262,12 +442,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of small bash scripts for heavy terminal users",
+            "homepage": null,
             "id": 95492797,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-05-04T18:12:41Z",
+            "open_issues": 14,
             "owner": "alexanderepstein",
             "repo": "Bash-Snippets",
-            "stars": 9945
+            "stars": 9945,
+            "topics": [
+              "backup",
+              "bash",
+              "cheatsheet",
+              "currency-converter",
+              "encryption",
+              "movies",
+              "qrencode",
+              "recommendation-engine",
+              "stock-prices",
+              "url-shortner",
+              "weather",
+              "youtube-player"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -278,12 +476,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "1200+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..",
+            "homepage": "https://www.linkedin.com/in/HariSekhon",
             "id": 49816796,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-24T03:39:09Z",
+            "open_issues": 8,
             "owner": "HariSekhon",
             "repo": "DevOps-Bash-tools",
-            "stars": 8390
+            "stars": 8390,
+            "topics": [
+              "api",
+              "aws",
+              "bash",
+              "ci",
+              "cloudera",
+              "devops",
+              "docker",
+              "gcp",
+              "git",
+              "github",
+              "hacktoberfest",
+              "hadoop",
+              "jenkins",
+              "kafka",
+              "kubernetes",
+              "linux",
+              "mysql",
+              "perl",
+              "postgresql",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -294,12 +518,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A community Bash framework.",
+            "homepage": null,
             "id": 957012,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-09T06:56:08Z",
+            "open_issues": 5,
             "owner": "Bash-it",
             "repo": "bash-it",
-            "stars": 15151
+            "stars": 15151,
+            "topics": [
+              "bash",
+              "bash-alias",
+              "bash-completion",
+              "bash-configuration",
+              "bash-hacks",
+              "bash-prompt",
+              "productivity",
+              "shell",
+              "terminal",
+              "themes"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -310,12 +550,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "📖 A collection of pure bash alternatives to external processes.",
+            "homepage": null,
             "id": 137147386,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2023-11-28T03:26:23Z",
+            "open_issues": 62,
             "owner": "dylanaraps",
             "repo": "pure-bash-bible",
-            "stars": 41723
+            "stars": 41723,
+            "topics": [
+              "bash",
+              "bible",
+              "book",
+              "guide",
+              "handbook",
+              "how-to",
+              "learning",
+              "list",
+              "reference",
+              "script",
+              "shell",
+              "shell-scripts"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -326,12 +584,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terminal Emulators",
+            "homepage": null,
             "id": 151992625,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-20T04:11:30Z",
+            "open_issues": 22,
             "owner": "cdleon",
             "repo": "awesome-terminals",
-            "stars": 2945
+            "stars": 2945,
+            "topics": [
+              "bash",
+              "c",
+              "command-line",
+              "cpp",
+              "golang",
+              "haskell",
+              "node",
+              "powershell",
+              "python",
+              "ruby",
+              "rust",
+              "shell",
+              "swift",
+              "terminal",
+              "terminal-emulators",
+              "tty"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -342,12 +622,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of delightful Bash scripts and resources.",
+            "homepage": null,
             "id": 51288857,
             "language": "Shell",
+            "license": "CC0-1.0",
             "last_commit": "2026-05-21T14:27:17Z",
+            "open_issues": 9,
             "owner": "awesome-lists",
             "repo": "awesome-bash",
-            "stars": 10054
+            "stars": 10054,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bash"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -358,12 +647,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome Shell frameworks, libraries and software.",
+            "homepage": null,
             "id": 40644306,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-24T00:03:56Z",
+            "open_issues": 5,
             "owner": "uhub",
             "repo": "awesome-shell",
-            "stars": 634
+            "stars": 634,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -374,12 +668,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.",
+            "homepage": null,
             "id": 21552971,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-08-28T14:40:51Z",
+            "open_issues": 185,
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37525
+            "stars": 37526,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "bash",
+              "cli",
+              "fish",
+              "list",
+              "shell",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -390,12 +698,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🖥 📊 🕹 🛠 A curated list of command line apps",
+            "homepage": null,
             "id": 38832942,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-08-22T08:06:18Z",
+            "open_issues": 0,
             "owner": "agarrharr",
             "repo": "awesome-cli-apps",
-            "stars": 20274
+            "stars": 20274,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cli",
+              "cli-app",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -406,12 +725,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files",
+            "homepage": null,
             "id": 94945792,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-29T20:15:17Z",
+            "open_issues": 171,
             "owner": "toolleeo",
             "repo": "awesome-cli-apps-in-a-csv",
-            "stars": 2601
+            "stars": 2601,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cli",
+              "cli-apps",
+              "command-line",
+              "command-line-tool",
+              "linux",
+              "linux-command",
+              "resources",
+              "terminal-based",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -422,12 +758,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome resources for building immersive CLI experiences.",
+            "homepage": null,
             "id": 110226491,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-01-24T11:23:10Z",
+            "open_issues": 8,
             "owner": "Kikobeats",
             "repo": "awesome-cli",
-            "stars": 352
+            "stars": 352,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cli",
+              "command-line",
+              "command-line-tool"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -438,12 +785,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple command line tool to give you a fancy command line interface to dive into Awesome lists.",
+            "homepage": null,
             "id": 238624420,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-10-08T18:05:22Z",
+            "open_issues": 2,
             "owner": "umutphp",
             "repo": "awesome-cli",
-            "stars": 809
+            "stars": 809,
+            "topics": [
+              "awesome",
+              "awesome-go",
+              "awesome-list",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -454,12 +811,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List of projects that provide terminal user interfaces",
+            "homepage": null,
             "id": 178716643,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-11T16:48:11Z",
+            "open_issues": 95,
             "owner": "rothgar",
             "repo": "awesome-tuis",
-            "stars": 20386
+            "stars": 20389,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -470,12 +832,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.",
+            "homepage": null,
             "id": 608896930,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-23T11:16:42Z",
+            "open_issues": 99,
             "owner": "sigoden",
             "repo": "aichat",
-            "stars": 10403
+            "stars": 10404,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "chatbot",
+              "claude",
+              "cli",
+              "function-calling",
+              "gemini",
+              "llm",
+              "ollama",
+              "openai",
+              "rag",
+              "rust",
+              "shell",
+              "webui"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -486,12 +868,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.",
+            "homepage": null,
             "id": 590604203,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-02T06:03:01Z",
+            "open_issues": 120,
             "owner": "TheR1D",
             "repo": "shell_gpt",
-            "stars": 12261
+            "stars": 12261,
+            "topics": [
+              "chatgpt",
+              "cheat-sheet",
+              "cli",
+              "commands",
+              "gpt-3",
+              "gpt-4",
+              "gpt-5",
+              "linux",
+              "llama",
+              "llm",
+              "ollama",
+              "openai",
+              "productivity",
+              "python",
+              "shell",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -502,12 +906,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "aider is AI pair programming in your terminal",
+            "homepage": "https://aider.chat/",
             "id": 638629097,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-22T14:02:20Z",
+            "open_issues": 1833,
             "owner": "Aider-AI",
             "repo": "aider",
-            "stars": 48560
+            "stars": 48561,
+            "topics": [
+              "anthropic",
+              "chatgpt",
+              "claude-3",
+              "cli",
+              "command-line",
+              "gemini",
+              "gpt-3",
+              "gpt-35-turbo",
+              "gpt-4",
+              "gpt-4o",
+              "llama",
+              "openai",
+              "sonnet"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -518,12 +941,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source AI coding agent. Designed for large projects and real world tasks.",
+            "homepage": "https://plandex.ai",
             "id": 709538270,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-10-03T21:49:58Z",
+            "open_issues": 62,
             "owner": "plandex-ai",
             "repo": "plandex",
-            "stars": 15597
+            "stars": 15597,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-developer-tools",
+              "ai-tools",
+              "cli",
+              "command-line",
+              "developer-tools",
+              "git",
+              "golang",
+              "gpt-4",
+              "llm",
+              "openai",
+              "polyglot-programming",
+              "terminal",
+              "terminal-based",
+              "terminal-ui"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -534,12 +979,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Warp is an agentic development environment, born out of the terminal.",
+            "homepage": "https://warp.dev",
             "id": 384219990,
             "language": "Rust",
-            "last_commit": "2026-08-29T02:06:47Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T03:52:16Z",
+            "open_issues": 5115,
             "owner": "warpdotdev",
             "repo": "warp",
-            "stars": 64612
+            "stars": 64615,
+            "topics": [
+              "bash",
+              "linux",
+              "macos",
+              "rust",
+              "shell",
+              "terminal",
+              "wasm",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -550,12 +1009,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Unix ASCII games",
+            "homepage": null,
             "id": 30400816,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-08-02T17:46:38Z",
+            "open_issues": 13,
             "owner": "ligurio",
             "repo": "awesome-ttygames",
-            "stars": 1026
+            "stars": 1026,
+            "topics": [
+              "ascii",
+              "ascii-art",
+              "ascii-game",
+              "asciicast",
+              "asciinema",
+              "awesome",
+              "game",
+              "opensource",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -566,12 +1040,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.",
+            "homepage": "https://terminalsare.sexy/",
             "id": 80627278,
             "language": "Shell",
+            "license": "CC0-1.0",
             "last_commit": "2024-07-26T15:27:31Z",
+            "open_issues": 150,
             "owner": "k4m4",
             "repo": "terminals-are-sexy",
-            "stars": 13094
+            "stars": 13094,
+            "topics": [
+              "awesome-lists",
+              "cli-lovers",
+              "curated-list",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -582,12 +1066,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of command-line fetch tools.",
+            "homepage": "https://beucismis.github.io/awesome-fetch/",
             "id": 363142095,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-27T19:22:14Z",
+            "open_issues": 1,
             "owner": "beucismis",
             "repo": "awesome-fetch",
-            "stars": 595
+            "stars": 595,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cli",
+              "command-line",
+              "fetch",
+              "fetch-list",
+              "fetch-tool",
+              "fetcher",
+              "linux",
+              "tui"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -598,12 +1098,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)",
+            "homepage": null,
             "id": 85309968,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-02-01T08:49:45Z",
+            "open_issues": 23,
             "owner": "chubin",
             "repo": "awesome-console-services",
-            "stars": 6514
+            "stars": 6514,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "curl",
+              "resources",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         }
@@ -612,15 +1123,38 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:55:17.776Z",
+    "last_updated": "2026-08-29T04:18:08.982Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":godmode: Ultimate list of Linux bash commands, cheatsheets and resources",
+      "homepage": null,
       "id": 562011743,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-01-07T13:42:45Z",
+      "open_issues": 1,
       "owner": "trinib",
       "repo": "Linux-Bash-Commands",
-      "stars": 4120
+      "stars": 4120,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bash",
+        "cheatsheet",
+        "cli",
+        "cmd",
+        "cmdline",
+        "command-line",
+        "learning",
+        "linux",
+        "linux-commands",
+        "list",
+        "shell",
+        "terminal",
+        "tools",
+        "ultimate",
+        "unix"
+      ]
     },
     "original_repository_sha": "13657905e4e03a263f7f9c38d616121f46e62465",
     "enhanced_repository": "enhansome/enhansome-Linux-Bash-Commands",
