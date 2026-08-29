@@ -15,7 +15,7 @@
             "last_commit": "2025-12-23T18:48:24Z",
             "owner": "chubin",
             "repo": "cheat.sh",
-            "stars": 41694
+            "stars": 41696
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         }
@@ -50,10 +50,10 @@
             "archived": false,
             "id": 15019962,
             "language": "Markdown",
-            "last_commit": "2026-08-28T00:55:28Z",
+            "last_commit": "2026-08-29T02:31:57Z",
             "owner": "tldr-pages",
             "repo": "tldr",
-            "stars": 63503
+            "stars": 63515
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -85,7 +85,7 @@
             "last_commit": "2026-08-21T05:32:50Z",
             "owner": "adambard",
             "repo": "learnxinyminutes-docs",
-            "stars": 12337
+            "stars": 12339
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -101,7 +101,7 @@
             "last_commit": "2023-11-08T10:46:16Z",
             "owner": "a8m",
             "repo": "golang-cheat-sheet",
-            "stars": 8821
+            "stars": 8820
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -132,7 +132,7 @@
             "last_commit": "2025-12-23T18:48:24Z",
             "owner": "chubin",
             "repo": "cheat.sh",
-            "stars": 41694
+            "stars": 41696
           },
           "title": "Offline usage install cheat script manually",
           "first_seen": "2026-08-28T04:31:53.316Z"
@@ -155,7 +155,7 @@
             "last_commit": "2026-02-11T18:20:42Z",
             "owner": "bobbyiliev",
             "repo": "introduction-to-bash-scripting",
-            "stars": 6320
+            "stars": 6322
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -235,7 +235,7 @@
             "last_commit": "2026-04-12T17:26:10Z",
             "owner": "LeCoupa",
             "repo": "awesome-cheatsheets",
-            "stars": 46408
+            "stars": 46405
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -283,7 +283,7 @@
             "last_commit": "2026-08-24T03:39:09Z",
             "owner": "HariSekhon",
             "repo": "DevOps-Bash-tools",
-            "stars": 8388
+            "stars": 8390
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -299,7 +299,7 @@
             "last_commit": "2026-08-09T06:56:08Z",
             "owner": "Bash-it",
             "repo": "bash-it",
-            "stars": 15150
+            "stars": 15151
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -315,7 +315,7 @@
             "last_commit": "2023-11-28T03:26:23Z",
             "owner": "dylanaraps",
             "repo": "pure-bash-bible",
-            "stars": 41722
+            "stars": 41723
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -347,7 +347,7 @@
             "last_commit": "2026-05-21T14:27:17Z",
             "owner": "awesome-lists",
             "repo": "awesome-bash",
-            "stars": 10051
+            "stars": 10054
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -379,7 +379,7 @@
             "last_commit": "2025-08-28T14:40:51Z",
             "owner": "alebcay",
             "repo": "awesome-shell",
-            "stars": 37520
+            "stars": 37525
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -395,7 +395,7 @@
             "last_commit": "2026-08-22T08:06:18Z",
             "owner": "agarrharr",
             "repo": "awesome-cli-apps",
-            "stars": 20262
+            "stars": 20274
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -411,7 +411,7 @@
             "last_commit": "2026-07-29T20:15:17Z",
             "owner": "toolleeo",
             "repo": "awesome-cli-apps-in-a-csv",
-            "stars": 2598
+            "stars": 2601
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -459,7 +459,7 @@
             "last_commit": "2026-08-11T16:48:11Z",
             "owner": "rothgar",
             "repo": "awesome-tuis",
-            "stars": 20367
+            "stars": 20386
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -475,7 +475,7 @@
             "last_commit": "2026-02-23T11:16:42Z",
             "owner": "sigoden",
             "repo": "aichat",
-            "stars": 10401
+            "stars": 10403
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -491,7 +491,7 @@
             "last_commit": "2026-07-02T06:03:01Z",
             "owner": "TheR1D",
             "repo": "shell_gpt",
-            "stars": 12259
+            "stars": 12261
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -507,7 +507,7 @@
             "last_commit": "2026-05-22T14:02:20Z",
             "owner": "Aider-AI",
             "repo": "aider",
-            "stars": 48539
+            "stars": 48560
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -523,7 +523,7 @@
             "last_commit": "2025-10-03T21:49:58Z",
             "owner": "plandex-ai",
             "repo": "plandex",
-            "stars": 15598
+            "stars": 15597
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -536,10 +536,10 @@
             "archived": false,
             "id": 384219990,
             "language": "Rust",
-            "last_commit": "2026-08-28T04:09:31Z",
+            "last_commit": "2026-08-29T02:06:47Z",
             "owner": "warpdotdev",
             "repo": "warp",
-            "stars": 64575
+            "stars": 64612
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -571,7 +571,7 @@
             "last_commit": "2024-07-26T15:27:31Z",
             "owner": "k4m4",
             "repo": "terminals-are-sexy",
-            "stars": 13092
+            "stars": 13094
           },
           "first_seen": "2026-08-28T04:31:53.316Z"
         },
@@ -612,7 +612,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:31:53.316Z",
+    "last_updated": "2026-08-29T02:55:17.776Z",
     "original_repository_info": {
       "archived": false,
       "id": 562011743,
@@ -620,7 +620,7 @@
       "last_commit": "2026-01-07T13:42:45Z",
       "owner": "trinib",
       "repo": "Linux-Bash-Commands",
-      "stars": 4119
+      "stars": 4120
     },
     "original_repository_sha": "13657905e4e03a263f7f9c38d616121f46e62465",
     "enhanced_repository": "enhansome/enhansome-Linux-Bash-Commands",
