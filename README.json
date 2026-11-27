@@ -21,7 +21,7 @@
                 "open_issues": 152,
                 "owner": "chubin",
                 "repo": "cheat.sh",
-                "stars": 41891,
+                "stars": 41892,
                 "topics": [
                   "cheatsheet",
                   "cli",
@@ -77,11 +77,11 @@
                 "id": 15019962,
                 "language": "Markdown",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-26T01:56:59Z",
-                "open_issues": 326,
+                "last_commit": "2026-11-26T21:42:22Z",
+                "open_issues": 316,
                 "owner": "tldr-pages",
                 "repo": "tldr",
-                "stars": 64308,
+                "stars": 64324,
                 "topics": [
                   "android",
                   "bsd",
@@ -144,7 +144,7 @@
                 "open_issues": 272,
                 "owner": "adambard",
                 "repo": "learnxinyminutes-docs",
-                "stars": 12391,
+                "stars": 12390,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:53.316Z"
@@ -211,7 +211,7 @@
                 "open_issues": 152,
                 "owner": "chubin",
                 "repo": "cheat.sh",
-                "stars": 41891,
+                "stars": 41892,
                 "topics": [
                   "cheatsheet",
                   "cli",
@@ -251,7 +251,7 @@
                 "open_issues": 11,
                 "owner": "bobbyiliev",
                 "repo": "introduction-to-bash-scripting",
-                "stars": 6404,
+                "stars": 6405,
                 "topics": [
                   "100daysofcode",
                   "bash",
@@ -378,10 +378,10 @@
                 "language": "JavaScript",
                 "license": "MIT",
                 "last_commit": "2026-10-17T14:11:21Z",
-                "open_issues": 138,
+                "open_issues": 136,
                 "owner": "LeCoupa",
                 "repo": "awesome-cheatsheets",
-                "stars": 46710,
+                "stars": 46713,
                 "topics": [
                   "backend",
                   "bash",
@@ -455,7 +455,7 @@
                 "open_issues": 14,
                 "owner": "alexanderepstein",
                 "repo": "Bash-Snippets",
-                "stars": 9956,
+                "stars": 9957,
                 "topics": [
                   "backup",
                   "bash",
@@ -563,7 +563,7 @@
                 "open_issues": 62,
                 "owner": "dylanaraps",
                 "repo": "pure-bash-bible",
-                "stars": 41711,
+                "stars": 41709,
                 "topics": [
                   "bash",
                   "bible",
@@ -597,7 +597,7 @@
                 "open_issues": 73,
                 "owner": "cdleon",
                 "repo": "awesome-terminals",
-                "stars": 3062,
+                "stars": 3063,
                 "topics": [
                   "bash",
                   "c",
@@ -631,8 +631,8 @@
                 "id": 51288857,
                 "language": "Shell",
                 "license": "CC0-1.0",
-                "last_commit": "2026-05-21T14:27:17Z",
-                "open_issues": 9,
+                "last_commit": "2026-11-26T08:00:32Z",
+                "open_issues": 12,
                 "owner": "awesome-lists",
                 "repo": "awesome-bash",
                 "stars": 10225,
@@ -689,7 +689,7 @@
                 "open_issues": 197,
                 "owner": "alebcay",
                 "repo": "awesome-shell",
-                "stars": 38024,
+                "stars": 38032,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -743,7 +743,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-11-10T14:16:42Z",
-                "open_issues": 437,
+                "open_issues": 443,
                 "owner": "toolleeo",
                 "repo": "awesome-cli-apps-in-a-csv",
                 "stars": 2690,
@@ -832,7 +832,7 @@
                 "open_issues": 3,
                 "owner": "rothgar",
                 "repo": "awesome-tuis",
-                "stars": 21149,
+                "stars": 21157,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:53.316Z"
@@ -853,7 +853,7 @@
                 "open_issues": 110,
                 "owner": "sigoden",
                 "repo": "aichat",
-                "stars": 10601,
+                "stars": 10604,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -889,7 +889,7 @@
                 "open_issues": 124,
                 "owner": "TheR1D",
                 "repo": "shell_gpt",
-                "stars": 12329,
+                "stars": 12330,
                 "topics": [
                   "chatgpt",
                   "cheat-sheet",
@@ -927,7 +927,7 @@
                 "open_issues": 1996,
                 "owner": "Aider-AI",
                 "repo": "aider",
-                "stars": 50262,
+                "stars": 50276,
                 "topics": [
                   "anthropic",
                   "chatgpt",
@@ -962,7 +962,7 @@
                 "open_issues": 70,
                 "owner": "plandex-ai",
                 "repo": "plandex",
-                "stars": 15929,
+                "stars": 15930,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -996,11 +996,11 @@
                 "id": 384219990,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-26T00:05:03Z",
-                "open_issues": 5599,
+                "last_commit": "2026-11-26T23:44:25Z",
+                "open_issues": 5603,
                 "owner": "warpdotdev",
                 "repo": "warp",
-                "stars": 66149,
+                "stars": 66157,
                 "topics": [
                   "bash",
                   "linux",
@@ -1058,10 +1058,10 @@
                 "language": "Shell",
                 "license": "CC0-1.0",
                 "last_commit": "2024-07-26T15:27:31Z",
-                "open_issues": 157,
+                "open_issues": 158,
                 "owner": "k4m4",
                 "repo": "terminals-are-sexy",
-                "stars": 13166,
+                "stars": 13165,
                 "topics": [
                   "awesome-lists",
                   "cli-lovers",
@@ -1119,7 +1119,7 @@
                 "open_issues": 36,
                 "owner": "chubin",
                 "repo": "awesome-console-services",
-                "stars": 6618,
+                "stars": 6619,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1140,7 +1140,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T03:11:24.933Z",
+    "last_updated": "2026-11-27T03:17:19.284Z",
     "original_repository_info": {
       "archived": false,
       "description": ":godmode: Ultimate list of Linux bash commands, cheatsheets and resources",
